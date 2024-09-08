@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [Facebook](http://www.facebook.com/PLBomb/?viewas=100000686899395&show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0)
-* ✉️  You can contact me at [kappakap39@gmail.com](mailto:kappakap39@gmail.com)
+* ✉️  You can contact me at [kappakap39@gmail.com](mailto:kappakap39@gmail.com) OR [bombphuwadon.dev@gmail.com](mailto:bombphuwadon.dev@gmail.com)
 
 <a href="https://www.github.com/kappakap39" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kappakap39?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/kappakap39" target="_blank" rel="noreferrer"><img
