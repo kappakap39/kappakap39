@@ -33,6 +33,18 @@ src="https://img.shields.io/twitch/status/kappakap39?logo=twitchsx&style=for-the
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
 </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" />
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" height="36" alt=".NET" />
+</a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <img src="https://prisma.io/images/favicon-32x32.png" width="36" height="36" alt="Prisma" />
+</a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
